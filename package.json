@@ -1,0 +1,17 @@
+{
+ 
+"scripts": { "build": "cd client && npm run build"},
+
+"dependencies": {
+  "express": "^4.17.1",
+  "if-env": "^1.0.4",
+  "manifest": "^0.1.4"
+},
+"devDependencies": {
+  "concurrently": "^5.2.0",
+  "mini-css-extract-plugin": "^2.7.6",
+  "nodemon": "^2.0.4",
+  "webpack-cli": "^5.1.4",
+  "workbox-webpack-plugin": "^7.0.0"
+}
+}
