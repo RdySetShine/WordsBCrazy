@@ -10,3 +10,7 @@ app.use(express.json());
 require('./routes/htmlRoutes')(app);
 
 app.listen(PORT, () => console.log(`Now listening on port: ${PORT}`));
+
+
+
+// when pushing to heroku the folders in my WordsBcrazy should be in seperate repo's so ot can deploy properly.
