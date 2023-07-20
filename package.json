@@ -1,22 +1,25 @@
 {
- 
-"scripts": { 
-  "build": "cd client && npm run build",
-  "test": "echo \"Error: no test specified\" && exit 1",
-  "serve": "webpack-dev-server --mode=development",
-  "start": "node server.js"
-},
+  "name": "WordsBCrazy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+    "scripts": { 
+      "build": "cd client && npm run build",
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "serve": "webpack-dev-server --mode=development",
+      "start": "node server.js"
+    },
 
-"dependencies": {
-  "express": "^4.17.1",
-  "if-env": "^1.0.4",
-  "manifest": "^0.1.4"
-},
-"devDependencies": {
-  "concurrently": "^5.2.0",
-  "mini-css-extract-plugin": "^2.7.6",
-  "nodemon": "^2.0.4",
-  "webpack-cli": "^5.1.4",
-  "workbox-webpack-plugin": "^7.0.0"
-}
+  "dependencies": {
+    "express": "^4.17.1",
+    "if-env": "^1.0.4",
+    "manifest": "^0.1.4"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "mini-css-extract-plugin": "^2.7.6",
+    "nodemon": "^2.0.4",
+    "webpack-cli": "^5.1.4",
+    "workbox-webpack-plugin": "^7.0.0"
+  }
 }
