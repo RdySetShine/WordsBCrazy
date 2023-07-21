@@ -1,5 +1,5 @@
 {
-  "name": "WordsBCrazy",
+  "name": "wordsbcrazy",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
