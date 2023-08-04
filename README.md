@@ -45,15 +45,20 @@ This project is licensed under the MIT license. For more information about the l
 
 ## Live URL
 
-[Text Editor Application LINK]()
+[Text Editor Application LINK](https://wordsbcrazy-05d4f46788ce.herokuapp.com/)
 
 ## Images
 
-![Alt text](assets/PWA-install.jpg)
+![Alt text](![Alt text](client/assests/Jate1.jpeg))
 
-![Alt text](assets/PWA-app-use.jpg)
+![Alt text](![Alt text](client/assests/Jate2.png))
+
+## Creator
+
+Bruno Rosarini
 
 ## Contributing
+
 Keegan Omel
 Austin Grech
 Krishna The TA
@@ -62,6 +67,6 @@ Krishna The TA
 
 For any questions, please reach out via GitHub or email:
 
-- GitHub: [BrunoRosarini](https://github.com/AustinGrech)
+- GitHub: [BrunoRosarini](https://github.com/RdySetShine)
 
 - Email: (rosarinibruno@gmail.com)
