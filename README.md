@@ -45,13 +45,13 @@ This project is licensed under the MIT license. For more information about the l
 
 ## Live URL
 
-[Text Editor Application LINK](https://wordsbcrazy-05d4f46788ce.herokuapp.com/)
+[Text Editor Application LINK] https://wordsbcrazy-05d4f46788ce.herokuapp.com/
 
 ## Images
 
-![Alt text](![Alt text](client/assests/Jate1.jpeg))
+(![Alt text](client/assests/Jate1.jpeg))
 
-![Alt text](![Alt text](client/assests/Jate2.png))
+(![Alt text](client/assests/Jate2.png))
 
 ## Creator
 
