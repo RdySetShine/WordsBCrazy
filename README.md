@@ -49,9 +49,9 @@ This project is licensed under the MIT license. For more information about the l
 
 ## Images
 
-(![Alt text](client/assests/Jate1.jpeg))
+![Alt text](client/assests/Jate1.jpeg)
 
-(![Alt text](client/assests/Jate2.png))
+![Alt text](client/assests/Jate22.jpeg)
 
 ## Creator
 
